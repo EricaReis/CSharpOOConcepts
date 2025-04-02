@@ -6,19 +6,18 @@ namespace ProductStock {
         public double Price;
         public int Quantity;
 
-        // Constructor:
-        public Product(string name, double price, int quantity)
+      
+        // Constructor overload
+        public Product(string name, double price): this()
         {
             Name = name;
             Price = price;
-            Quantity = quantity;
         }
 
-        // Constructor Overload
-        public Product(string name, double price)
+        // Constructor:
+        public Product (string name, double price, int quantity) : this(name, price)
         {
-            Name = name;
-            Price = price;
+            Quantity = quantity;
         }
 
         public Product()
