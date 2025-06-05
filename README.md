@@ -1,6 +1,6 @@
 # 🧠 Learning C#
 
-Welcome to my C# learning journey! 🚀  
+Welcome to my C# learning journey!  
 This repository is a collection of simple code snippets, small projects, and basic exercises I'm using to learn the C# programming language.
 
 ## 📌 What You'll Find Here
@@ -8,9 +8,9 @@ This repository is a collection of simple code snippets, small projects, and bas
 - 🌱 Basic syntax and structure
 - 🔁 Loops and conditionals
 - 🧮 Functions and methods
-- 🧰 Object-oriented programming (coming soon!)
+- 🧰 Object-oriented programming
 - 🧪 Small practice problems
-- 📚 Notes and comments to help me (and maybe you!) understand better
+- 📚 Notes and comments to help me understand better
 
 ## 🛠️ Why This Repo?
 
@@ -29,4 +29,4 @@ If you're also learning C#:
 1. Make sure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/learning-csharp.git
+   git clone https://github.com/EricaReis/CSharpOOConcepts.git
