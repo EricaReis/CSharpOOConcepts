@@ -7,6 +7,7 @@ namespace SwitchCase {
             int x = int.Parse(Console.ReadLine());
             string day;
 
+
             switch (x)
             {
                 case 1:
